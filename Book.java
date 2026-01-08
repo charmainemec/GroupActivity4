@@ -1,5 +1,4 @@
-//package ph.com.bpi.m2project2;
-package M2Project2;
+package m3project3;
 
 public abstract class Book {
 
