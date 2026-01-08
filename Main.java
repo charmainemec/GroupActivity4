@@ -1,5 +1,5 @@
 //package ph.com.bpi.m2project2;
-package M2Project2;
+package m3project1;
 
 public class Main {
     public static void main(String[] args) {
